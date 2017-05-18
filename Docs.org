@@ -1,7 +1,7 @@
-#+TITLE: functionfoundry docs
+#+TITLE: formula docs
 #STATUS: DRAFT
 
-*functionfoundry* is a JavaScript library written in ES6.
+*formula* is a JavaScript library written in ES6.
 
 It includes ES5 code precompiled with babel in the lib folder.
 
